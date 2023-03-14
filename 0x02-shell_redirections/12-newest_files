@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head | uniq | sort -m
+ls -t | head | uniq | sort -m
