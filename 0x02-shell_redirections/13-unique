@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > list | uniq | pr
+ls > list | uniq -u | pr
