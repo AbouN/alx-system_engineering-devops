@@ -29,4 +29,13 @@ Write a script that displays the result of BREATH to the power LOVE
     BREATH and LOVE are environment variables
     The script should display the result, followed by a new line
 
-There are 10 types of people in the world -- Those who understand binary, and those who don't 
+There are 10 types of people in the world -- Those who understand binary, and those who don't
+
+Create a script that prints all possible combinations of two letters, except oo.
+
+    Letters are lower cases, from a to z
+    One combination per line
+    The output should be alpha ordered, starting with aa
+    Do not print oo
+    Your script file should contain maximum 64 characters
+ 
