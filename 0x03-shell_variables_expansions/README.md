@@ -29,3 +29,4 @@ Write a script that displays the result of BREATH to the power LOVE
     BREATH and LOVE are environment variables
     The script should display the result, followed by a new line
 
+There are 10 types of people in the world -- Those who understand binary, and those who don't 
